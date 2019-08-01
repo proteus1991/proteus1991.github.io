@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Xiaohong Liu</title>
+    <link>https://proteus1991.github.io/tags/</link>
+    <description>Recent content in Tags on Xiaohong Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <copyright>©Xiaohong Liu</copyright>
+    <lastBuildDate>Sun, 16 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://proteus1991.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>https://proteus1991.github.io/tags/deep-learning/</link>
+      <pubDate>Sun, 16 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Retrieval</title>
+      <link>https://proteus1991.github.io/tags/image-retrieval/</link>
+      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/tags/image-retrieval/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Video Super-Resolution</title>
+      <link>https://proteus1991.github.io/tags/video-super-resolution/</link>
+      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/tags/video-super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Frame Super-Resolution</title>
+      <link>https://proteus1991.github.io/tags/multi-frame-super-resolution/</link>
+      <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/tags/multi-frame-super-resolution/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>https://proteus1991.github.io/tags/academic/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/tags/academic/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
