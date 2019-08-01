@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©Xiaohong Liu</copyright>
-    <lastBuildDate>Sun, 02 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://proteus1991.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,11 +15,38 @@
     <item>
       <title></title>
       <link>https://proteus1991.github.io/authors/admin/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/admin/</guid>
       <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. student at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research directions are aimed at computer vision, machine learning and deep learning, especially in the areas of restoration, retrieval, classification and recognition. As a computer vision researcher, I’m always energetic and enthusiastic to implement the cutting-edge techniques.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jun Chen</title>
+      <link>https://proteus1991.github.io/authors/jun-chen/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/jun-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mayong Rui</title>
+      <link>https://proteus1991.github.io/authors/mayong-rui/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/mayong-rui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shizhi Hao</title>
+      <link>https://proteus1991.github.io/authors/shizhi-hao/</link>
+      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/shizhi-hao/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -37,15 +64,6 @@
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/jie-lin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Jun Chen</title>
-      <link>https://proteus1991.github.io/authors/jun-chen/</link>
-      <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://proteus1991.github.io/authors/jun-chen/</guid>
       <description></description>
     </item>
     
