@@ -7,10 +7,34 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©Xiaohong Liu</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://proteus1991.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>End-To-End Trainable Video Super-Resolution Based on a New Mechanism for Implicit Motion Estimation and Compensation</title>
+      <link>https://proteus1991.github.io/publication/wacv2020/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/publication/wacv2020/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>GridDehazeNet: Attention-Based Multi-Scale Network for Image Dehazing</title>
@@ -33,39 +57,31 @@
  --&gt;
 
 &lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.png&#34; &gt;
+
+&lt;img src=&#34;figure1.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
 </description>
     </item>
     
     <item>
       <title>Image Retrieval via Canonical Correlation Analysis</title>
-      <link>https://proteus1991.github.io/publication/shi_conference/</link>
+      <link>https://proteus1991.github.io/publication/cwit2019/</link>
       <pubDate>Sun, 02 Jun 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://proteus1991.github.io/publication/shi_conference/</guid>
-      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-
-
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
- --&gt;
-
-&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Video Super-Resolution via Dynamic Local Filter Network</title>
-      <link>https://proteus1991.github.io/publication/zhou_conference/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://proteus1991.github.io/publication/zhou_conference/</guid>
+      <guid>https://proteus1991.github.io/publication/cwit2019/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -148,11 +164,35 @@ rm Untitled.md
     </item>
     
     <item>
+      <title>Video Super-Resolution via Dynamic Local Filter Network</title>
+      <link>https://proteus1991.github.io/publication/globalsip2018/</link>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/publication/globalsip2018/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Robust Multi-Frame Super-Resolution Based on Spatially Weighted Half-Quadratic Estimation and Adaptive BTV Regularization</title>
-      <link>https://proteus1991.github.io/publication/liu_tip/</link>
+      <link>https://proteus1991.github.io/publication/tip2018/</link>
       <pubDate>Fri, 15 Jun 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://proteus1991.github.io/publication/liu_tip/</guid>
+      <guid>https://proteus1991.github.io/publication/tip2018/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -173,10 +213,10 @@ rm Untitled.md
     
     <item>
       <title>Robust multi-frame super-resolution with adaptive norm choice and difference curvature based BTV regularization</title>
-      <link>https://proteus1991.github.io/publication/liu_conference1/</link>
+      <link>https://proteus1991.github.io/publication/globalsip2017/</link>
       <pubDate>Tue, 14 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://proteus1991.github.io/publication/liu_conference1/</guid>
+      <guid>https://proteus1991.github.io/publication/globalsip2017/</guid>
       <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -429,10 +469,10 @@ rm Untitled.md
     <item>
       <title></title>
       <link>https://proteus1991.github.io/authors/admin/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/admin/</guid>
-      <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. student at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research directions are aimed at computer vision, machine learning and deep learning, especially in the areas of restoration, retrieval, classification and recognition. As a computer vision researcher, I’m always energetic and enthusiastic to implement the cutting-edge techniques.&lt;/p&gt;
+      <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. candidate at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research directions are aimed at computer vision, machine learning and deep learning, especially in areas of image and video restoration, retrieval, classification and recognition.&lt;/p&gt;
 </description>
     </item>
     

@@ -33,6 +33,22 @@
  --&gt;
 
 &lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+
+
+
+
+
+
+
+&lt;figure&gt;
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;figure1.png&#34; &gt;
+
+&lt;img src=&#34;figure1.png&#34; &gt;
+&lt;/a&gt;
+
+&lt;/figure&gt;
+
 </description>
     </item>
     

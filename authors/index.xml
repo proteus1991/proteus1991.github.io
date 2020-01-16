@@ -7,7 +7,7 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©Xiaohong Liu</copyright>
-    <lastBuildDate>Mon, 22 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://proteus1991.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,19 +15,46 @@
     <item>
       <title></title>
       <link>https://proteus1991.github.io/authors/admin/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/admin/</guid>
-      <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. student at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research directions are aimed at computer vision, machine learning and deep learning, especially in the areas of restoration, retrieval, classification and recognition. As a computer vision researcher, I’m always energetic and enthusiastic to implement the cutting-edge techniques.&lt;/p&gt;
+      <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. candidate at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research directions are aimed at computer vision, machine learning and deep learning, especially in areas of image and video restoration, retrieval, classification and recognition.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Jiying Zhao</title>
+      <link>https://proteus1991.github.io/authors/jiying-zhao/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/jiying-zhao/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Jun Chen</title>
       <link>https://proteus1991.github.io/authors/jun-chen/</link>
-      <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/jun-chen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lingshi Kong</title>
+      <link>https://proteus1991.github.io/authors/lingshi-kong/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/lingshi-kong/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yang Zhou</title>
+      <link>https://proteus1991.github.io/authors/yang-zhou/</link>
+      <pubDate>Mon, 09 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/authors/yang-zhou/</guid>
       <description></description>
     </item>
     
@@ -41,11 +68,11 @@
     </item>
     
     <item>
-      <title>Shizhi Hao</title>
-      <link>https://proteus1991.github.io/authors/shizhi-hao/</link>
+      <title>Zhihao Shi</title>
+      <link>https://proteus1991.github.io/authors/zhihao-shi/</link>
       <pubDate>Mon, 22 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://proteus1991.github.io/authors/shizhi-hao/</guid>
+      <guid>https://proteus1991.github.io/authors/zhihao-shi/</guid>
       <description></description>
     </item>
     
@@ -95,29 +122,11 @@
     </item>
     
     <item>
-      <title>Jiying Zhao</title>
-      <link>https://proteus1991.github.io/authors/jiying-zhao/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://proteus1991.github.io/authors/jiying-zhao/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Lei Chen</title>
       <link>https://proteus1991.github.io/authors/lei-chen/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/lei-chen/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yang Zhou</title>
-      <link>https://proteus1991.github.io/authors/yang-zhou/</link>
-      <pubDate>Thu, 21 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://proteus1991.github.io/authors/yang-zhou/</guid>
       <description></description>
     </item>
     
