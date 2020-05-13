@@ -7,10 +7,51 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©Xiaohong Liu</copyright>
-    <lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://proteus1991.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Optimization Methods in Deep Learning</title>
+      <link>https://proteus1991.github.io/post/deep-learning-optimization/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/post/deep-learning-optimization/</guid>
+      <description>
+
+&lt;h2 id=&#34;content&#34;&gt;Content&lt;/h2&gt;
+
+&lt;p&gt;&lt;p align=&#34;justify&#34;&gt;This post is to sort out the optimization methods in deep learning from the most basic idea about what is &lt;b&gt;gradient descent&lt;/b&gt; to the most popular optimizer - &lt;b&gt;Adam&lt;/b&gt;. Moreoever, the &lt;b&gt;SGD&lt;/b&gt;, &lt;b&gt;SGDM&lt;/b&gt;, &lt;b&gt;Adagrad&lt;/b&gt;, &lt;b&gt;PMSProp&lt;/b&gt; and some recent advances such as &lt;b&gt;AdamW&lt;/b&gt; are introduced. Hope this post could give me some hints about how to choose different optimizers to train the neural network.&lt;/p&gt;
+
+&lt;p&gt;Reference: &lt;a href=&#34;./lecture.pdf&#34;&gt;Optimization slides&lt;/a&gt;, &lt;a href=&#34;./tutorial.pdf&#34;&gt;Tutorial&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-1.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 1&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-2.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 2&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-3.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 3&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-4.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 4&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-5.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 5&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;img src=&#34;./figures/optimization-6.png&#34; alt=&#34;Trulli&#34; style=&#34;width:100%&#34;&gt;
+  &lt;figcaption&gt;&lt;center&gt;Page 6&lt;center&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+</description>
+    </item>
     
     <item>
       <title>Generative Adversarial Network (GAN)</title>
