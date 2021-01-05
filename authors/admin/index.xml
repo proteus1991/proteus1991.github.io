@@ -7,10 +7,34 @@
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>©Xiaohong Liu</copyright>
-    <lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
     
 	    <atom:link href="https://proteus1991.github.io/authors/admin/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Exploit Camera Raw Data for Video Super-Resolution via Hidden Markov Model Inference</title>
+      <link>https://proteus1991.github.io/publication/tip2020_rawvsr/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://proteus1991.github.io/publication/tip2020_rawvsr/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+ --&gt;
+
+&lt;!-- Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
     
     <item>
       <title>AWNet: Attentive Wavelet Network for Image ISP</title>
@@ -373,7 +397,7 @@ Note credit: &lt;a href=&#34;https://sakura-gh.github.io/ML-notes/ML-notes-html/
     <item>
       <title></title>
       <link>https://proteus1991.github.io/authors/admin/</link>
-      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
       
       <guid>https://proteus1991.github.io/authors/admin/</guid>
       <description>&lt;p style=&#34;text-align: justify&#34;&gt;I’m a Ph.D. candidate at McMaster University supervised by &lt;a href=&#34;https://scholar.google.ca/citations?hl=en&amp;user=XI79Mw0AAAAJ&#34;&gt;Dr. Jun Chen&lt;/a&gt;. My research direction aims at video and image processing based on deep learning, especially in restoration, classification, recognition, and manipulation/abnormal detection.&lt;/p&gt;
